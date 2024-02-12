@@ -17,6 +17,9 @@ This project is a simple web application that checks whether a given input strin
 2. As a user, I want to be able to click a button to check if the input string is a palindrome.
 3. As a user, I want to see the result of the palindrome check displayed on the screen.
 
+
+For detailed user stories, please refer to the [UserStories.md](USERSTORIES.md)
+
 ## Usage
 1. Enter a string into the input field.
 2. Click the "Check" button.
